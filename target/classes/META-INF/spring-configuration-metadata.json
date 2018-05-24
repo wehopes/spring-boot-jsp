@@ -1,0 +1,20 @@
+{
+  "groups": [{
+    "name": "person",
+    "type": "com.ruituo.bean.MyConfig",
+    "sourceType": "com.ruituo.bean.MyConfig"
+  }],
+  "properties": [
+    {
+      "name": "person.gender",
+      "type": "java.lang.String",
+      "sourceType": "com.ruituo.bean.MyConfig"
+    },
+    {
+      "name": "person.name",
+      "type": "java.lang.String",
+      "sourceType": "com.ruituo.bean.MyConfig"
+    }
+  ],
+  "hints": []
+}
